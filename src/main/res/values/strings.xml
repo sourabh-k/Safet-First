@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SafetyFirst</string>
+    <string name="title_activity_track_location">Map</string>
+</resources>
